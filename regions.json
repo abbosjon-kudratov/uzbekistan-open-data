@@ -1,0 +1,88 @@
+﻿{
+    "Viloyatlar - regions": [
+        {
+            "id": "1",
+            "Name (UZ)": "Toshkent shahri",
+            "Name (УЗ)": "Тошкент шаҳри",
+            "Name (RU)": "город Ташкент"
+        },
+        {
+            "id": "2",
+            "Name (UZ)": "Toshkent viloyati",
+            "Name (УЗ)": "Тошкент вилояти",
+            "Name (RU)": "Ташкентская область"
+        },
+        {
+            "id": "3",
+            "Name (UZ)": "Sirdaryo viloyati",
+            "Name (УЗ)": "Сирдарё вилояти",
+            "Name (RU)": "Сырдарьинская область"
+        },
+        {
+            "id": "4",
+            "Name (UZ)": "Jizzax viloyati",
+            "Name (УЗ)": "Жиззах вилояти",
+            "Name (RU)": "Джизакская область"
+        },
+        {
+            "id": "5",
+            "Name (UZ)": "Samarqand viloyati",
+            "Name (УЗ)": "Самарқанд вилояти",
+            "Name (RU)": "Самаркандская область"
+        },
+        {
+            "id": "6",
+            "Name (UZ)": "Fargʻona viloyati",
+            "Name (УЗ)": "Фарғона вилояти",
+            "Name (RU)": "Ферганская область"
+        },
+        {
+            "id": "7",
+            "Name (UZ)": "Namangan viloyati\t",
+            "Name (УЗ)": "Наманган вилояти",
+            "Name (RU)": "Наманганская область"
+        },
+        {
+            "id": "8",
+            "Name (UZ)": "Andijon viloyati",
+            "Name (УЗ)": "Андижон вилояти",
+            "Name (RU)": "Андижанская область"
+        },
+        {
+            "id": "9",
+            "Name (UZ)": "Qashqadaryo viloyati",
+            "Name (УЗ)": "Қашқадарё вилояти",
+            "Name (RU)": "Кашкадарьинская область\r\n"
+        },
+        {
+            "id": "10",
+            "Name (UZ)": "Surxondaryo viloyati",
+            "Name (УЗ)": "Сурхондарё вилояти",
+            "Name (RU)": "Сурхандарьинская область"
+        },
+        {
+            "id": "11",
+            "Name (UZ)": "Buxoro viloyati",
+            "Name (УЗ)": "Бухоро вилояти",
+            "Name (RU)": "Бухарская область"
+        },
+        {
+            "id": "12",
+            "Name (UZ)": "Navoiy viloyati",
+            "Name (УЗ)": "Навоий вилояти",
+            "Name (RU)": "Навоийская область"
+        },
+        {
+            "id": "13",
+            "Name (UZ)": "Xorazm viloyati",
+            "Name (УЗ)": "Хоразм вилояти",
+            "Name (RU)": "Хорезмская область"
+        },
+        {
+            "id": "14",
+            "Name (UZ)": "Qoraqalpogʻiston Respublikasi",
+            "Name (УЗ)": "Қорақалпоғистон Республикаси",
+            "Name (RU)": "Республика Каракалпакстан"
+        }
+    ]
+}
