@@ -1639,6 +1639,14 @@
             "Name (RU)": "Ходжейлиский район",
             "Region_id": "14",
             "Region_name": "Qoraqalpogʻiston Respublikasi"
+        },
+        {
+            "id": "206",
+            "Name (UZ)": "Ko'kdala tumani",
+            "Name (УЗ)": "Кўкдала тумани",
+            "Name (RU)": "Кукдалинский район",
+            "Region_id": "9",
+            "Region_name": "Qashqadaryo viloyati"
         }
     ]
     
