@@ -6,17 +6,17 @@ I will be adding more stuff in the future...
   
 ### The source of geojson file is Princeton University Library (https://maps.princeton.edu/catalog/stanford-hv122zc0838)  
 ### The source of districts list files - official websites of Hokimiyats of the regions of Uzbekistan, Hokimiyat of Tashkent city and The Cabinet of Ministers of the Republic of Karakalpasktan:
-[tashkent.uz](https://tashkent.uz/)  
-[toshvil.uz](https://toshvil.uz/)
-[sirdaryo.uz](http://sirdaryo.uz/) 
-jizzax.uz  
-samarkand.uz  
-fergana.uz  
-namangan.uz  
-andijan.uz  
-qashqadaryo.uz  
-surxondaryo.uz  
-buxoro.uz  
-navoi.uz  
-xorazm.uz  
-karakalpakstan.uz  
+[tashkent.uz](https://tashkent.uz/)<br>
+[toshvil.uz](https://toshvil.uz/)<br>
+[sirdaryo.uz](http://sirdaryo.uz/)<br>
+[jizzax.uz](https://jizzax.uz)<br>
+[samarkand.uz](https://samarkand.uz)<br>
+[fergana.uz](https://fergana.uz)<br>
+[namangan.uz](https://namangan.uz)<br> 
+[andijan.uz](https://andijan.uz)<br>
+[qashqadaryo.uz](https://qashqadaryo.uz)<br>
+[surxondaryo.uz](https://surxondaryo.uz)<br>
+[buxoro.uz](https://buxoro.uz)<br>
+[navoi.uz](https://navoi.uz)<br>
+[xorazm.uz](https://xorazm.uz)<br>
+[karakalpakstan.uz](https://karakalpakstan.uz)<br>  
