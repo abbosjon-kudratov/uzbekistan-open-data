@@ -6,7 +6,7 @@ I will be adding more stuff in the future...
   
 ### The source of geojson file is Princeton University Library (https://maps.princeton.edu/catalog/stanford-hv122zc0838)  
 ### The source of districts list files - official websites of Hokimiyats of the regions of Uzbekistan, Hokimiyat of Tashkent city and The Cabinet of Ministers of the Republic of Karakalpasktan:
-tashkent.uz  
+[tashkent.uz](tashkent.uz)  
 toshvil.uz  
 sirdaryo.uz  
 jizzax.uz  
